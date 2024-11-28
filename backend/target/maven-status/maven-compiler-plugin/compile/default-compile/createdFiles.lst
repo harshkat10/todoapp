@@ -1,0 +1,8 @@
+com/springboot/rest/webservices/restfulwebservices/todo/TodoJpaResource.class
+com/springboot/rest/webservices/restfulwebservices/todo/ToDoHardcodedService.class
+com/springboot/rest/webservices/restfulwebservices/todo/TodoJpaRepository.class
+com/springboot/rest/webservices/restfulwebservices/helloworld/HelloWorldController.class
+com/springboot/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.class
+com/springboot/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class
+com/springboot/rest/webservices/restfulwebservices/todo/Todo.class
+com/springboot/rest/webservices/restfulwebservices/todo/TodoResource.class
